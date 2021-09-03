@@ -4,8 +4,8 @@ if (rahakott >= tooteHind)
   console.log("saad osta");
 else
 console.log("ei saa osta");
-saad osta
-undefined
+//saad osta
+//undefined
 "sul on rahakottid " +(rahakott +1)
 'sul on rahakottid 48.5907570325173'
 // --------------------------------------/////
